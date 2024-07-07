@@ -1,0 +1,38 @@
+.header-container {
+    background: url('images/bg-hero-desktop.svg') no-repeat center center/cover;
+    background-color: hsl(193, 100%, 96%);
+    padding-top: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 50px;
+}
+
+.logo img {
+    height: 35px;
+    margin: 0 20px;
+}
+
+.btn {
+    background-color: #fff;
+    color: hsl(210, 3%, 24%);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 28px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    width: 200px;
+    height: 50px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color color 0.3s;
+}
+
+.btn:hover {
+    background-color: hsl(322, 100%, 55%);
+    color: #eee;
+}
