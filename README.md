@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Huddle Landing Page Screenshot](public\screenshot.png)
+![Huddle Landing Page Screenshot](public/screenshot.png)
 
 ### Links
 
